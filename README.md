@@ -1,2 +1,2 @@
 # alloy-analysis
-for krastsvetmet
+analyzed and built models
